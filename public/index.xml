@@ -198,10 +198,27 @@
     </item>
     
     <item>
+      <title>Biometric Student Attendance System</title>
+      <link>http://localhost:1313/project/bsas/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bsas/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Biometric Student Attendance System (BSAS)&lt;/strong&gt; is a biometric-based attendance system designed for university settings. It allows students to record their attendance via fingerprint scanning, while teachers and administrators can manage attendance, class schedules, and notifications.&lt;/p&gt;
+&lt;p&gt;This system is built with the aim to enhance attendance tracking efficiency and manage leave requests for students and teachers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Harry Potter Tribute Page</title>
+      <link>http://localhost:1313/project/tribute/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute/</guid>
+      <description>&lt;p&gt;A themed tribute page celebrating the magical world of Harry Potter, featuring interactive elements and creative design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Survey Form</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <link>http://localhost:1313/project/survey/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/survey/</guid>
       <description>&lt;p&gt;A responsive and accessible survey form designed for collecting user feedback with a simple, user-friendly interface.&lt;/p&gt;</description>
     </item>
     
@@ -297,22 +314,6 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -442,7 +443,7 @@
 
 
 
-&lt;div id=&#34;chart-431629875&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-341562879&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -460,7 +461,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-431629875&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-341562879&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
