@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Survey Form
+date: 2024-10-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HTML
+  - CSS
+  - Web Design
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A responsive and accessible survey form designed for collecting user feedback with a simple, user-friendly interface.
 
 <!--more-->

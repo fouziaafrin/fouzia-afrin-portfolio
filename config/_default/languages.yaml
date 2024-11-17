@@ -20,3 +20,25 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+
+
+# Bangla language
+bn:
+  languageCode: bn
+  title: "বাংলা ওয়েবসাইটের শিরোনাম" # Site title in Bangla
+  contentDir: content/bn
+  params:
+    description: "বাংলা ভাষায় সাইটের বিবরণ" # Description in Bangla
+  menu:
+    main:
+      - name: "পরিচিতি" # About
+        url: '#about'
+        weight: 1
+      - name: "প্রকল্পসমূহ" # Projects
+        url: '#projects'
+        weight: 2

@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Fouzia Afrin Jui
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Fouzia Afrin Jui
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Fouzia
+last_name: Afrin Jui
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💮
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Aspiring Full-Stack Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Jahangirnagar University
+    url: https://juniv.edu/department/cse
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:fouziaafrin22@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/_fouzia_afrin/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/fouziaafrin
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,42 +47,55 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Development
+  - Neural Machine Translation (NMT)
+  - Cyber Security
+  - Crafts and Origami
+  - Books
+  - Graphics and Visualization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science and Engineering
+    institution: Jahangirnagar University
+    date_start: 2020-03-08
+    date_end: 2026-03-10
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Higher Secondary School Certificate (HSC) in Science
+    institution: Safiuddin Sarker Academy and College
+    date_start: 2017-07-01
+    date_end: 2019-07-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.0/5.0
 
+      Focused on foundational courses in science and mathematics, which built a strong base for my computer science journey.
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Physics
+      - Chemistry
+      - Mathematics
+      - Biology
+      - English
+      - Information & Communication Technology (ICT)
+  - area: Secondary School Certificate in Science
+    institution: Safiuddin Sarker Academy and College
+    date_start: 2015-01-01
+    date_end: 2017-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 5.0/5.0
       
+      Built foundational knowledge in science, mathematics, and language arts.
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - General Science
+      - Mathematics
+      - Physics
+      - Chemistry
+      - Biology
+      - Bangla
+      - English
+      - Information & Communication Technology (ICT)
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -144,23 +157,25 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bangla
+    percent: 100
+  - name: Hindi
+    percent: 80
+  - name: Japanese
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: FreeCodeCamp Responsive Web Design Certification
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: FreeCodeCamp
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+       Completed a comprehensive course on responsive web design, focusing on HTML, CSS, and accessibility. Designed multiple responsive projects using modern web standards.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -183,4 +198,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I’m a curious and passionate CSE student with a knack for solving problems and building projects. I have experience with C, C++, Java, and web development, and I’m always excited to learn new technologies.
+
+When I’m not coding, you’ll probably find me immersed in a good book, exploring the art of crafts and origami, or geeking out over algorithms. My current focus is on creating innovative solutions and refining my skills one project at a time.
+
+Let’s connect and create something awesome together!
