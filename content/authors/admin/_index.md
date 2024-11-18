@@ -178,7 +178,7 @@ awards:
     summary: |
        Completed a comprehensive course on responsive web design, focusing on HTML, CSS, and accessibility. Designed multiple responsive projects using modern web standards.
   - title: Cyber Quest 2020
-    url: ./uploads/reve.jpg
+    url: ./reve.jpg
     date: '2020-07-20'
     awarder: REVE Antivirus
     #icon: edx
