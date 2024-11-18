@@ -17,14 +17,14 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: /resume.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: bg2.jpg #stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,17 +35,28 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a passionate researcher with a keen interest in Cybersecurity, Neural Machine Translation (NMT), and the intersection of AI and societal impact. My work delves into understanding how technology shapes our world and how we can leverage it for the greater good.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I enjoy exploring innovative solutions to complex problems, such as enhancing public awareness of cybercrime or advancing machine translation systems for better communication across languages.
+
+        Collaboration drives innovation, so feel free to reach out if you share similar interests or have exciting projects in mind! 😊
     design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: bg.jpg #stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Papers
       filters:
         folders:
           - publication
@@ -55,7 +66,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Papers
       text: ""
       filters:
         folders:
@@ -63,22 +74,29 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+  - block: resume-awards
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+      title: Awards
+      username: admin
+
+ # - block: collection
+    #id: talks
+    #content:
+      #title: Recent & Upcoming Talks
+      #filters:
+        #folders:
+          #- event
+    #design:
+     # view: article-grid
+     # columns: 1
+  #- block: collection
+   # id: news
+   # content:
+   #   title: Recent News
+    #  subtitle: ''
+   #   text: ''
+
+  
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)

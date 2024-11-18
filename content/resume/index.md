@@ -6,7 +6,7 @@ summary: "An innovative Full-Stack Developer driven by the art of building effic
 draft: false
 ---
 
-![Fouzia Afrin Jui](./IMG_20200504_203259_610.jpg)
+
 
 ## **Fouzia Afrin Jui**
 
@@ -19,7 +19,7 @@ draft: false
 - **Email:** [fouziaafrin22@email.com](mailto:fouziaafrin22@email.com)  
 - **Phone:** +8801794079757  
 - **Location:** Dhaka, Bangladesh 
-- **LinkedIn:** [](https://www.linkedin.com/in/)  
+
 - **GitHub:** [Fouzia Afrin](https://github.com/fouziaafrin)  
 - **Blood Group:** O+  
 
@@ -30,6 +30,8 @@ draft: false
 I am a motivated **Full-Stack Developer** with a strong academic foundation and a passion for building responsive, user-friendly web applications. Combining creativity and technology, I focus on crafting solutions that deliver outstanding user experiences. Currently pursuing a degree in **Computer Science and Engineering** at **Jahangirnagar University**, I bring both technical expertise and a designer's touch to every project I undertake.
 
 ---
+
+
 
 ### **Education**
 
@@ -78,9 +80,7 @@ _Graduated: 2018_
 - **Description**: Built a responsive portfolio using Hugo and modern web design practices.  
 - **Highlights**: Includes interactive sections for projects, resume, and contact.  
 
- **AI-Powered Chatbot**  
-- **Description**: Designed a chatbot to answer student queries using Natural Language Processing (NLP).  
-- **Tools Used**: Python, TensorFlow, Flask  
+
 
 ---
 
@@ -102,7 +102,7 @@ _Graduated: 2018_
 
 - **Email**: [fouziaafrin22@email.com](mailto:fouziaafrin22@email.com)  
 - **GitHub**: [Fouzia Afrin](https://github.com/fouziaafrin)  
-- **LinkedIn**: [](https://www.linkedin.com/in/)  
+  
 - **Phone**: +8801794079757  
 
 ---

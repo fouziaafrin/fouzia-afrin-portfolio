@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Aspiring Full-Stack Developer
+role: Full-Stack Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,25 +33,24 @@ profiles:
   - icon: at-symbol
     url: 'mailto:fouziaafrin22@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+    #url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/_fouzia_afrin/
   - icon: brands/github
     url: https://github.com/fouziaafrin
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: brands/facebook
+    url: https://www.facebook.com/fouzia.afrin.315
+  #- icon: academicons/google-scholar
+    #url: https://scholar.google.com/
+  #- icon: academicons/orcid
+   # url: https://orcid.org/
 
 interests:
   - Web Development
   - Neural Machine Translation (NMT)
   - Cyber Security
-  - Crafts and Origami
-  - Books
+  - IOT
   - Graphics and Visualization
 
 education:
@@ -59,11 +58,12 @@ education:
     institution: Jahangirnagar University
     date_start: 2020-03-08
     date_end: 2026-03-10
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #summary: |
+      
+     # Paper on _Neural Machine Translation: A Comprehensive Overview_. Supervised by [Anup Majumder, Assistant Prof.](https://example.com).
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
   - area: Higher Secondary School Certificate (HSC) in Science
     institution: Safiuddin Sarker Academy and College
     date_start: 2017-07-01
@@ -96,43 +96,44 @@ education:
       - Bangla
       - English
       - Information & Communication Technology (ICT)
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#work:
+ # - position: Director of Cloud Infrastructure
+  #  company_name: GenCoin
+  #  company_url: ''
+  #  company_logo: ''
+  #  date_start: 2021-01-01
+  #  date_end: ''
+  #  summary: |2-
+   #   Responsibilities include:
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #- position: Backend Software Engineer
+   # company_name: X
+   # company_url: ''
+   # company_logo: ''
+   # date_start: 2016-01-01
+   # date_end: 2020-12-31
+   # summary: |
+   #   Responsibilities include:
+   #   - Migrated infrastructure to a new data center
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: C
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+      - name: C++
+        percent: 85
+        icon: code-bracket
+      - name: Java
+        percent: 75
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
@@ -141,15 +142,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Craftin & Origami
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Movies
         description: ''
         percent: 80
         icon: camera
@@ -160,7 +161,7 @@ languages:
   - name: Bangla
     percent: 100
   - name: Hindi
-    percent: 80
+    percent: 95
   - name: Japanese
     percent: 30
 
@@ -170,30 +171,22 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: FreeCodeCamp Responsive Web Design Certification
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    url: https://www.freecodecamp.org/certification/Fouzia_Afrin/responsive-web-design
+    date: '2024-11-04'
     awarder: FreeCodeCamp
     icon: coursera
     summary: |
        Completed a comprehensive course on responsive web design, focusing on HTML, CSS, and accessibility. Designed multiple responsive projects using modern web standards.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Cyber Quest 2020
+    url: /uploads/reve.jpg
+    date: '2020-07-20'
+    awarder: REVE Antivirus
+    #icon: edx
+    summary: |  
+     - Achieved 2nd Runner-Up position in this prestigious cybersecurity competition.  
+     - Collaborated with teammates to research and present solutions for real-world cybersecurity challenges.  
+     - Wrote and presented a paper on cybersecurity, showcasing innovative approaches to secure digital systems.  
+
 ---
 
 ## About Me

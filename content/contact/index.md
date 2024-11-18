@@ -14,8 +14,7 @@ I’d love to hear from you! Whether it’s about a project, collaboration, or j
 ## **Contact Details**
 
 - **Email:** [fouziaafrin22@email.com](mailto:fouziaafrin22@email.com)  
-- **Phone:** +8801794079757  
-- **LinkedIn:** [](https://www.linkedin.com/in/)  
+- **Phone:** +8801794079757   
 - **GitHub:** [Fouzia Afrin](https://github.com/fouziaafrin)  
 - **Location:** Dhaka, Bangladesh  
 
@@ -25,10 +24,10 @@ I’d love to hear from you! Whether it’s about a project, collaboration, or j
 
 Connect with me on social media and stay updated on my latest projects:  
 
-- **LinkedIn:** [](https://www.linkedin.com/in//)  
-- **GitHub:** [Fouzia Afrin](https://github.com/fouziaafrin)  
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-- **Instagram:** [@yourhandle](https://instagram.com/yourhandle)  
+- **Facebook:** [Fouzia Afrin Jui](https://www.facebook.com/fouzia.afrin.315)
+- **GitHub:** [fouziaafrin](https://github.com/fouziaafrin)  
+- **Discord:** [granian_wings](https://discord.com/channels/@me)  
+- **Instagram:** [_fouzia_afrin](https://www.instagram.com/_fouzia_afrin/)  
 
 ---
 
