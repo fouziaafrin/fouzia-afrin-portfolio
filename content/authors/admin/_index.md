@@ -163,7 +163,7 @@ languages:
   - name: Hindi
     percent: 95
   - name: Japanese
-    percent: 30
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
